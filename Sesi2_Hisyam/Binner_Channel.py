@@ -1,7 +1,7 @@
 import numpy as np
 import imageio as img
 
-image_path = "C:/Users/Aspire_Black/Pictures/kuc.jpg"
+image_path = "C:/Users/Aspire_Black/Documents/PCG_Smes5_Hisyam/Sesi2_Hisyam/Foto/DNPepaya.jfif"
 image = img.imread(image_path)
 
 if len (image.shape) < 3 or image.shape[2] != 3:
