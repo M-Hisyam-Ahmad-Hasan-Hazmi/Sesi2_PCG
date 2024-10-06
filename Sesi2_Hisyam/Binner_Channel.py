@@ -30,6 +30,6 @@ for i in range(0, len(gray)):
             image_bw[i][j] = 0
 
 
-img.imwrite("bw_singkong.jpg", image_bw)
+img.imwrite("BW_DNPepaya.jfif", image_bw)
 
 print("Proses Berhasil")
