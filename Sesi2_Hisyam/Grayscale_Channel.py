@@ -19,6 +19,6 @@ image_gray[:,:,0] = gray
 image_gray[:,:,1] = gray
 image_gray[:,:,2] = gray
 
-img.imwrite("gray_singkong.jpg", image_gray)
+img.imwrite("Gray_DNpepaya.jfif", image_gray)
 
 print("Proses Berhasil")
