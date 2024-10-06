@@ -15,6 +15,6 @@ blue = image[:,:,2]
 image_green = np.zeros_like(image)
 image_green[:,:,1] = green
 
-img.imwrite("green_singkong.jpg", image_green)
+img.imwrite("Green_DNpepaya.jfif", image_green)
 
 print("Proses Berhasil")
